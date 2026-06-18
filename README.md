@@ -1,163 +1,229 @@
-About Me
-# Hi 👋 I'm Shahzaib Ali
+```markdown
+<h1 align="center">Hi 👋, I'm Shahzaib Ali</h1>
 
-## Backend Developer | Node.js | Express.js | REST APIs | MongoDB | PostgreSQL
+<h3 align="center">
+Backend Developer | Node.js | Express.js | REST APIs | MongoDB | PostgreSQL
+</h3>
 
-I'm a Backend Developer passionate about building scalable APIs, designing efficient databases, and solving real-world problems through clean backend architecture.
-
-Currently working on scalable backend applications while continuously improving my system design and backend engineering skills.
+<p align="center">
+Passionate about building scalable backend systems, designing efficient databases, and developing high-performance REST APIs with clean architecture and secure authentication.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-🔭 I’m currently working on AI Job Matcher & Indeed Job Scraper
-
-🌱 I’m currently learning
-- Advanced Node.js
-- System Design
-- Microservices
-- Docker
-- Redis
-
-👯 I’m looking to collaborate on
-Backend Projects
-Open Source APIs
-Node.js Projects
-
-💬 Ask me about
-
-Node.js
-Express.js
-MongoDB
-PostgreSQL
-REST APIs
-Authentication
-Backend Architecture
-
-⚡ Fun fact
-
-I enjoy optimizing backend performance more than building UIs 😄
-Socials
-## 🌐 Connect with me
-
-- LinkedIn
-- Email
-
-LinkedIn link add kar dena.
-
-Tech Stack
-## 💻 Tech Stack
-
-### Languages
-
-JavaScript
-SQL
-HTML
-CSS
-
-### Backend
-
-Node.js
-Express.js
-REST API
-JWT
-RBAC
-
-### Database
-
-MongoDB
-PostgreSQL
-MySQL
-Redis
-
-### Tools
-
-Git
-GitHub
-Postman
-VS Code
-Docker
-Current Projects
-## 🚀 Featured Projects
-
-### 🤖 AI Job Matcher
-
-Resume parsing
-AI Resume Matching
-Semantic Search
-FastAPI
-Node.js
-React
+- 🔭 Currently working on **AI Job Matcher** and **Indeed Job Scraper**
+- 🌱 Currently learning **Advanced Node.js, System Design, Docker, Redis, Microservices, and AWS**
+- 👨‍💻 Passionate about **Backend Engineering, API Design, Database Architecture, and Performance Optimization**
+- 👯 Looking to collaborate on **Backend Development, Open Source Projects, and Scalable API Systems**
+- 💬 Ask me about **Node.js, Express.js, MongoDB, PostgreSQL, REST APIs, JWT Authentication, RBAC, and Backend Architecture**
+- ⚡ Fun Fact: *I enjoy optimizing backend performance more than building user interfaces.* 😄
 
 ---
 
-### 🔍 Indeed Job Scraper
+## 🌐 Connect With Me
 
-Automated Job Scraping
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  &nbsp;
+  <a href="mailto:malikshahzaibali5516@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
+</p>
 
-CSV Export
-
-Filtering
-
-Express.js
-
-Puppeteer
-
-Cheerio
-
----
-
-### 🛒 E-Commerce REST API
-
-Authentication
-
-JWT
-
-RBAC
-
-MongoDB
-
-REST APIs
+📧 **Email:** malikshahzaibali5516@gmail.com
 
 ---
 
-### 📋 Team Task Management API
+# 💻 Tech Stack
 
-Node.js
+### 🚀 Languages
 
-Express
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,html,css,mysql" />
+</p>
 
-PostgreSQL
+### ⚙️ Backend
 
-Role-Based Access
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-GitHub Stats
+- REST API Development
+- JWT Authentication
+- Role-Based Access Control (RBAC)
+- Middleware
+- Error Handling
 
-Yeh automatically generate hota hai.
+### 🗄️ Databases
 
-## 📊 GitHub Stats
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alihaider6325&show_icons=true&theme=tokyonight)
+### 🛠️ Tools
 
-![GitHub Streak](https://streak-stats.demolab.com?user=alihaider6325&theme=tokyonight)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alihaider6325&layout=compact&theme=tokyonight)
-Trophy
-## 🏆 GitHub Trophy
+- Agile / Scrum
+- API Documentation
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=shahzaibali5516&theme=tokyonight)
-Visitors
-## 👀 Profile Views
+---
 
-![](https://komarev.com/ghpvc/?username=shahzaibali5516)
-Quote
-## 💡 Quote
+# 💼 Professional Experience
 
-"First make it work, then make it fast, then make it scalable."
-Snake Animation (Optional)
-## 🐍 Contribution Graph
+## Backend Developer — Mind Spark
 
-![snake gif](https://github.com/shahzaibali5516/shahzaibali5516/blob/output/github-contribution-grid-snake.svg)
-Result
+**Aug 2024 – Present**
 
+- 🚀 Developed scalable REST APIs using Node.js and Express.js.
+- ⚡ Designed optimized MongoDB and PostgreSQL database schemas.
+- 🔐 Implemented JWT Authentication and Role-Based Access Control (RBAC).
+- 🤝 Collaborated with frontend developers to deliver production-ready features.
+- 📈 Improved API performance through indexing, query optimization, and centralized error handling.
+
+---
+
+## Web Development Intern — Technik Nest Pvt Ltd
+
+**Jun 2024 – Jul 2024**
+
+- Built responsive web applications using HTML, CSS, and JavaScript.
+- Worked with Git version control and Agile development practices.
+- Delivered clean, maintainable, and production-ready code.
+
+---
+
+## Web Developer — Expand More Company
+
+**Sep 2023 – Dec 2023**
+
+- Built interactive web interfaces using JavaScript.
+- Managed MySQL databases and CRUD operations.
+- Participated in debugging sessions and peer code reviews.
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI Job Matcher
+
+- AI Resume Matching
+- Resume Parsing
+- ATS Score Analysis
+- Semantic Search
+- FastAPI
+- Node.js
+- React
+
+---
+
+## 🔍 Indeed Job Scraper
+
+- Automated Job Scraping
+- CSV Export
+- Advanced Filtering
+- Express.js
+- Puppeteer
+- Cheerio
+
+---
+
+## 🛒 Scalable E-Commerce REST API
+
+- JWT Authentication
+- Role-Based Access Control
+- MongoDB
+- Product & Order Management
+- REST API Development
+
+---
+
+## 📋 Team Task Management System
+
+- Node.js
+- Express.js
+- PostgreSQL
+- RBAC
+- Team Collaboration
+
+---
+
+## 📊 Real-Time Analytics Dashboard
+
+- Node.js
+- MongoDB
+- Aggregation Pipelines
+- Server-side Caching
+- Optimized Data Retrieval
+
+---
+
+# 🎓 Education
+
+### Bachelor of Science in Computer Science
+
+**Abbottabad University of Science and Technology (AUST)**
+
+**2020 – 2024**
+
+**Relevant Coursework**
+
+- Data Structures & Algorithms
+- Database Systems
+- Software Engineering
+- Web Technologies
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shahzaibali5516&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibali5516&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=shahzaibali5516&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shahzaibali5516&theme=tokyonight&margin-w=15&no-frame=true"/>
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahzaibali5516&theme=tokyo-night"/>
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=shahzaibali5516&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+# 💡 Favorite Quote
+
+> **"First make it work, then make it right, then make it fast."**  
+> — Kent Beck
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! Feel free to connect and collaborate. 🚀</h3>
+```
